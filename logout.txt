@@ -1,1 +1,1 @@
-hello this is a test for conflict
+Hello This is A test in Git hub
